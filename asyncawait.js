@@ -4,7 +4,7 @@ const sampleData=async ()=>{
         console.log(response)
     }catch(err)
 {
-console.log("erroe accessing googlr:"+err)
+console.log("error accessing googlr:"+err)
 }  
 }
 sampleData()
